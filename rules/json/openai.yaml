@@ -29,6 +29,7 @@ rules:
     - Hard-coded Secrets
   languages:
   - json
+  - go
   patterns:
   - pattern: '"$REGEX"
 
